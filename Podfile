@@ -8,6 +8,10 @@ target 'Firebase_Social' do
 	pod ‘Firebase/Auth’
 	pod ‘Firebase/Database’
 	pod ‘Firebase/Storage’
+    pod ‘Bolts’
+    pod ‘FBSDKCoreKit’
+    pod ‘FBSDKLoginKit’
+    pod 'SwiftKeychainWrapper'
   # Pods for Firebase_Social
 
 end
