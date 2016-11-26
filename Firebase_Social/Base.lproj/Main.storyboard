@@ -292,7 +292,7 @@
                                         <color key="backgroundColor" red="0.93725490570000003" green="0.93725490570000003" blue="0.95686274770000002" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                         <connections>
                                             <outlet property="caption" destination="bTA-ri-cvO" id="inf-8d-l2P"/>
-                                            <outlet property="likeLbl" destination="CYA-VK-9FU" id="e7w-hn-yR4"/>
+                                            <outlet property="likeLbl" destination="7xl-YO-CWC" id="a9F-ao-u4G"/>
                                             <outlet property="postImg" destination="7Hx-yo-TXj" id="ukf-If-vxK"/>
                                             <outlet property="profileImg" destination="zSx-A6-lhf" id="KaL-vA-Sq3"/>
                                             <outlet property="usernameLbl" destination="Qz4-w8-OlE" id="YWT-2H-Pkw"/>
